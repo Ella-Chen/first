@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\exploded-aar\SMSSDK-2.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0ddb0f66ce51afc2a0187b8036584ee553f006c1">
+        <dex dex="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\pre-dexed\kuan\release\intermediates-exploded-aar-SMSSDK-2.0.2_37513bff2f2c07b6b853c6c878da6ad15ce6abec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\qiyicom\app\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\pre-dexed\kuan\release\universal-image-loader-1.8.6-with-sources_9b64479972247358fdccf622c60bf89159f459c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\pre-dexed\kuan\release\com.android.support-appcompat-v7-22.2.1_eb4991aa99740fa27681f4987e1b2a3f52178539.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\qiyicom\app\libs\MobTools-2016.0303.1229.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d76d489d04db5e475927a0077c8677b0e3a9fb8a">
+        <dex dex="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\pre-dexed\kuan\release\MobTools-2016.0303.1229_d7c1f5d4b13a093f51353e3a9c60bf7a4ddd9b4e.jar" />
+    </item>
+    <item
+        jar="G:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\pre-dexed\kuan\release\support-annotations-22.2.1_cc7cb6e37baee0ce72a04081f5f7ed0ecfb21ab1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\pre-dexed\kuan\release\com.android.support-design-22.2.1_84cd7b5c8f12757198ad9aa56414e2c12059628b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\pre-dexed\kuan\release\com.android.support-support-v4-22.2.1_cbdb643d1fec028207756710120eb702b2f636de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\exploded-aar\SMSSDKGUI-2.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="abf111c203fd0a6efd5a7d9435a7fa52aba3eb0e">
+        <dex dex="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\pre-dexed\kuan\release\intermediates-exploded-aar-SMSSDKGUI-2.0.2_8b4a72ee1e591af9b51b763b374f97da6e686d7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\pre-dexed\kuan\release\internal_impl-22.2.1_821a2ad2522cae17abe1b157916f549f2e52906a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\qiyicom\app\libs\MobCommons-2016.0303.1229.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="daa572a22ffbbf3550a9e3e4d65045c3e3936602">
+        <dex dex="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\pre-dexed\kuan\release\MobCommons-2016.0303.1229_5fc30931e337e2c95b9c4916c5ad8735a7439703.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\qiyicom\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="C:\Users\Administrator\Desktop\qiyicom\app\build\intermediates\pre-dexed\kuan\release\xUtils-2.6.14_ad886082c54a3b57bc0f77dded091fd11a43e603.jar" />
+    </item>
+
+</items>

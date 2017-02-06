@@ -1,0 +1,194 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#C8161E"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="上海"
+            android:textColor="@color/white"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/sousuo"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="50dp"
+            android:hint="股票／基金"
+            android:textSize="13sp"
+            />
+    </RelativeLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:orientation="vertical"
+                >
+
+                <tools.SlideShowView
+                    android:id="@+id/slideshowView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                </tools.SlideShowView>
+            </LinearLayout>
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/layoutss"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="40dp"-->
+                <!--android:gravity="center"-->
+                <!--android:orientation="horizontal">-->
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:text="客服热线咨询"-->
+                    <!--android:textColor="@color/red_b"-->
+                    <!--android:textSize="16sp"/>-->
+                <!--<ImageView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:src="@mipmap/left"/>-->
+
+
+
+
+
+            <!--</LinearLayout>-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="5dp">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/layouttt"
+                        android:layout_width="match_parent"
+                        android:layout_height="160dp"
+                        android:src="@mipmap/main_jryw"
+
+                        />
+                    <ImageView
+                        android:id="@+id/layouttj"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+                        android:src="@mipmap/main_cgds"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginBottom="5dp"
+
+                        />
+                    <ImageView
+                        android:id="@+id/layoutgs"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+                        android:src="@mipmap/main_wsnr"
+                        />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="5dp">
+                    <ImageView
+                        android:id="@+id/layouthb"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+                        android:src="@mipmap/main_hbdz"
+                       />
+                    <ImageView
+                        android:id="@+id/layouttz"
+                        android:layout_width="match_parent"
+                        android:layout_height="160dp"
+                        android:src="@mipmap/main_wytz"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginBottom="5dp"
+                        />
+                    <ImageView
+                        android:id="@+id/layoutdp"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+                        android:src="@mipmap/main_zjdp"/>
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+
+
+
+                <!--<LinearLayout-->
+                    <!--android:id="@+id/layoutcs"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:gravity="center"-->
+                    <!--android:orientation="vertical">-->
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="60dp"-->
+                        <!--android:layout_height="60dp"-->
+                        <!--android:layout_weight="1"-->
+                        <!--android:src="@mipmap/ren" />-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_marginTop="10dp"-->
+                        <!--android:text="我要参赛"-->
+                        <!--android:textSize="13sp" />-->
+
+
+                <!--</LinearLayout>-->
+
+                <!--<LinearLayout-->
+                    android:id="@+id/layoutgs"
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:gravity="center"-->
+                    <!--android:orientation="vertical">-->
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="60dp"-->
+                        <!--android:layout_height="60dp"-->
+                        <!--android:layout_weight="1"-->
+                        <!--android:src="@mipmap/sa" />-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_marginTop="10dp"-->
+                        <!--android:text="我是高手"-->
+                        <!--android:textSize="13sp" />-->
+
+                <!--</LinearLayout>-->
+
+
+        </LinearLayout>
+</LinearLayout>

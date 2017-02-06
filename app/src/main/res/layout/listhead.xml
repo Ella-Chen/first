@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF"
+    android:orientation="horizontal"
+    android:layout_gravity="center">
+
+    <LinearLayout
+    android:id="@+id/Lin_gst"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_weight="1"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+    android:layout_width="32dp"
+    android:layout_height="32dp"
+    android:src="@mipmap/gushitan" />
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="5dp"
+    android:text="股市谈"
+    android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <View
+    android:layout_width="1px"
+    android:layout_height="match_parent"
+    android:background="#CCCCCC" />
+
+    <LinearLayout
+    android:id="@+id/Lin_cp"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_weight="1"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+    android:layout_width="32dp"
+    android:layout_height="32dp"
+    android:src="@mipmap/caopan" />
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="5dp"
+    android:text="操盘日志"
+    android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <View
+    android:layout_width="1px"
+    android:layout_height="match_parent"
+    android:background="#CCCCCC" />
+
+    <LinearLayout
+    android:id="@+id/Lin_fpj"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_weight="1"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+    android:layout_width="32dp"
+    android:layout_height="32dp"
+    android:src="@mipmap/fupanjia" />
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="5dp"
+    android:text="复盘家"
+    android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <View
+    android:layout_width="1px"
+    android:layout_height="match_parent"
+    android:background="#CCCCCC" />
+
+    <LinearLayout
+    android:id="@+id/Lin_nr"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_weight="1"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+    android:layout_width="32dp"
+    android:layout_height="32dp"
+    android:src="@mipmap/niurenft" />
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="5dp"
+    android:text="牛人访谈"
+    android:textSize="12sp" />
+
+    </LinearLayout>
+    </LinearLayout>
+
+    <View
+    android:layout_width="match_parent"
+    android:layout_height="1px"
+    android:background="#CCCCCC" />
+
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF"
+    android:orientation="horizontal"
+    android:layout_gravity="center">
+
+    <LinearLayout
+    android:id="@+id/Lin_gmg"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_weight="1"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+    android:layout_width="32dp"
+    android:layout_height="32dp"
+    android:src="@mipmap/gangmeig" />
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="5dp"
+    android:text="港美股"
+    android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <View
+    android:layout_width="1px"
+    android:layout_height="match_parent"
+    android:background="#CCCCCC" />
+
+    <LinearLayout
+    android:id="@+id/Lin_jj"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_weight="1"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+    android:layout_width="32dp"
+    android:layout_height="32dp"
+    android:src="@mipmap/jjtz" />
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="5dp"
+    android:text="基金投资"
+    android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <View
+    android:layout_width="1px"
+    android:layout_height="match_parent"
+    android:background="#CCCCCC" />
+
+    <LinearLayout
+    android:id="@+id/Lin_mn"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_weight="1"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+    android:layout_width="32dp"
+    android:layout_height="32dp"
+    android:src="@mipmap/meinv" />
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="5dp"
+    android:text="美女操盘"
+    android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <View
+    android:layout_width="1px"
+    android:layout_height="match_parent"
+    android:background="#CCCCCC" />
+
+    <LinearLayout
+    android:id="@+id/Lin_cc"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_weight="1"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+    android:layout_width="32dp"
+    android:layout_height="32dp"
+    android:src="@mipmap/chaogu" />
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="5dp"
+    android:text="炒股大赛"
+    android:textSize="12sp" />
+
+    </LinearLayout>
+    </LinearLayout>
+
+    <View
+    android:layout_width="match_parent"
+    android:layout_height="1px"
+    android:background="#CCCCCC" />
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="10dp"
+    android:background="@color/white"
+    android:orientation="horizontal">
+
+    <!--<ImageView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:src="" />-->
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:text="12月25日模拟炒股大赛鸣锣开赛。。。"
+
+    />
+    </LinearLayout>
+
+
+
+</LinearLayout>

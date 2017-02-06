@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--<color name="yellow">#ff9900</color>-->
+    <color name="yellow">#C8161E</color>
+    <!--<color name="yellow">#fe6915</color>-->
+    <color name="orage">#FDD900</color>
+    <color name="grey">#D3D3D3</color>
+    <color name="bg_toolbar">#C8161E</color>
+    <color name="red_b">#e04f42</color>
+
+
+
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="facebook_blue">#415dae</color>
+
+
+    <color name="imoocstyle">#CA0612</color>
+
+    <!--主色-->
+    <color name="main_black">#333333</color>
+    <color name="skyblue">#65dadb</color>
+    <color name="llskyblue">#5FC9C8</color>
+    <color name="sky_blue_bottom">#0d8889</color>
+    <color name="main_red">#f67c7c</color>
+    <color name="main_grey">#aab3db</color>
+    <color name="main_green">#63b76b</color>
+    <color name="skybluegrey">#a7b4c1</color>
+
+    <!--字体色-->
+    <color name="text_color_4">#444444</color>
+    <color name="text_color_6">#666666</color>
+    <color name="text_color_9">#999999</color>
+    <color name="text_color_b">#bbbbbb</color>
+    <color name="text_color_c">#cccccc</color>
+    <color name="text_color_d">#dddddd</color>
+    <color name="text_color_5">#5a5a5a</color>
+
+    <!--分割线-->
+    <color name="line_color">#e5e5e5</color>
+    <color name="line_color83">#838383</color>
+    <color name="line_color44">#d4d4d4</color>
+
+    <!--背景色-->
+    <color name="bg_color_e">#eeeeee</color>
+    <color name="bg_color_f">#f5f5f5</color>
+    <color name="bg_color_f2">#f2f2f2</color>
+    <color name="bg_color_3">#333333</color>
+    <color name="bg_color_f4">#f0f4f4</color>
+    <color name="bg_color_e1">#f5f5f5</color>
+    <color name="bg_color_fa">#fafafa</color>
+    <color name="bg_color_e5">#e5e5e5</color>
+    <color name="bg_color_e1bak">#e1e9e9</color>
+
+    <color name="bg_pop_tran_main">#FFFCFCFC</color>
+
+    <!--ActionBar colorPrimary -->
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="bar_main">#ff524f</color>
+
+    <!--Gallery字体颜色-->
+    <color name="gtext_color">#e5e5e5</color>
+
+    <!--popview 遮罩背景-->
+    <color name="viewfinder_mask">#60000000</color>
+    <!--popview view分割线-->
+    <color name="hariline">#BFBFBF</color>
+    <!--popview 选中背景-->
+    <color name="bglightgray">#F5F5F5</color>
+
+    <!--loading蓟色 -->
+    <color name="lightgray">#DdDdDd</color>
+
+    <color name="actionbar_bg">#FF0099CC</color>
+    <color name="statusbar_bg">#FF333333</color>
+
+
+    <color name="colorPrimary">#3F51B5</color>
+</resources>

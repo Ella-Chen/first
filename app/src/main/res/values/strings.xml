@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">金融信息网</string>
+    <string name="action_settings">Settings</string>
+    <string name="FinancialInformationNetwork">金融信息网</string>
+    <string name="Site">www.shqytz.com</string>
+    <string name="help">新手指引</string>
+    <string name="money">明星榜</string>
+    <string name="right">安全保障</string>
+    <string name="tip">平台公告</string>
+    <string name="title_activity_login">Login</string>
+    <string name="none">--</string>
+
+
+    <string name="settings">Setting</string>
+
+    <!--SettingActivity-->
+    <string name="user_info">Profile</string>
+    <string name="user_wallet">Wallet</string>
+    <string name="user_shop">Shop</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_choose">Choose</string>
+</resources>

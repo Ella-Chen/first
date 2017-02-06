@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_checked="true" android:drawable="@mipmap/man"></item> <!-- 正常情况下 -->
+    <item android:state_checked="false" android:drawable="@mipmap/manb"></item> <!-- 按下时按钮的变化 -->
+</selector>
+
